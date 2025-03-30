@@ -3,6 +3,8 @@
 ## Overview
 This project deploys a Flask CRUD application in Azure using **Azure Container Registry (ACR)** and **Azure Container Instances (ACI)**. The infrastructure is defined using **Bicep** templates.
 
+![Architecture Diagram](images/azurediagram.png)
+![Architecture Diagram](images/azure2.png)
 
 ## Step 1: Clone The Git Repository & Login In Azure
 ```sh
