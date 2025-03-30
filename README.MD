@@ -6,7 +6,7 @@ This project deploys a Flask CRUD application in Azure using **Azure Container R
 
 ## Step 1: Clone The Git Repository & Login In Azure
 ```sh
-git clone 
+git clone https://github.com/AlexanderConserva/Flask-Crud.git
 ```
 
 ```sh
